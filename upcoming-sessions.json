@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-06-17T22:16:02.216135+00:00",
+  "generated_at": "2026-06-17T23:56:28.742372+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-sd6gx-20260617190000",
-      "title": "Free Community 9D Breathwork Session | Zoom",
-      "start_at": "2026-06-17T19:00:00.000+01:00",
-      "end_at": "2026-06-17T20:30:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 20,
-      "attendee_count": 13,
-      "waiting_list": true,
-      "tags": "Down regulating",
-      "location": "Zoom - Online",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sd6gx-20260617190000"
-    },
     {
       "event_id": "ev-s4ido-20260621100000",
       "title": "SIGNATURE | Letting Go | Livingston",
