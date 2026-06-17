@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T12:31:39.770597+00:00",
+  "generated_at": "2026-06-17T16:44:55.201367+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -9,7 +9,7 @@
       "end_at": "2026-06-17T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 20,
-      "attendee_count": 10,
+      "attendee_count": 12,
       "waiting_list": true,
       "tags": "Down regulating",
       "location": "Zoom - Online",
