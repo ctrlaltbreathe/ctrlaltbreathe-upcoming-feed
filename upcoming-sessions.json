@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T07:31:41.509145+00:00",
+  "generated_at": "2026-06-19T12:19:08.030578+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -48,7 +48,7 @@
       "end_at": "2026-07-12T12:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 0,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "",
       "location": "Reiki Love Club & Sound Healing School / Studio 1-3 Second Floor / Whitecrook Business Centre / Clydebank / Glasgow / G81 1QF",
@@ -94,6 +94,19 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sjx70-20260721183000"
     },
     {
+      "event_id": "ev-snjev-20260725100000",
+      "title": "9DMT TRIP Immersion Day",
+      "start_at": "2026-07-25T10:00:00.000+01:00",
+      "end_at": "2026-07-25T16:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 15,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "immersion",
+      "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-snjev-20260725100000"
+    },
+    {
       "event_id": "ev-sqw5q-20260727190000",
       "title": "COURSE | The Release: From Survival to Sovereignty | Swanston",
       "start_at": "2026-07-27T19:00:00.000+01:00",
@@ -131,19 +144,6 @@
       "tags": "wellnessbarn; course",
       "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqw5q-20260810190000"
-    },
-    {
-      "event_id": "ev-sqg6q-20260823100000",
-      "title": "9DMT TRIP Immersion Day",
-      "start_at": "2026-08-23T10:00:00.000+01:00",
-      "end_at": "2026-08-23T16:00:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 0,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "immersion",
-      "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqg6q-20260823100000"
     },
     {
       "event_id": "ev-sy1xa-20260824190000",
