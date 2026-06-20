@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T04:42:45.988797+00:00",
+  "generated_at": "2026-06-20T08:29:29.172204+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -48,7 +48,7 @@
       "end_at": "2026-07-12T12:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 6,
+      "attendee_count": 8,
       "waiting_list": true,
       "tags": "",
       "location": "Reiki Love Club & Sound Healing School / Studio 1-3 Second Floor / Whitecrook Business Centre / Clydebank / Glasgow / G81 1QF",
