@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-06-21T21:44:27.378271+00:00",
+  "generated_at": "2026-06-21T23:46:56.833274+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-s4ido-20260621100000",
-      "title": "SIGNATURE | Letting Go | Livingston",
-      "start_at": "2026-06-21T10:00:00.000+01:00",
-      "end_at": "2026-06-21T12:15:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 12,
-      "attendee_count": 6,
-      "waiting_list": true,
-      "tags": "9D; Signature; signature",
-      "location": "Uphall Station Village Hall / 14 Marrfield Terrace / Uphall Station / Livingston / EH54 5PY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s4ido-20260621100000"
-    },
     {
       "event_id": "ev-suobf-20260622190000",
       "title": "COURSE | The Clearing: Return to Self | Edinburgh",
