@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T10:45:00.915839+00:00",
+  "generated_at": "2026-06-23T13:48:01.916365+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -73,7 +73,7 @@
       "start_at": "2026-07-25T10:00:00.000+01:00",
       "end_at": "2026-07-25T16:00:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 15,
+      "attendee_limit": 20,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "immersion",
