@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-06-22T22:57:51.102654+00:00",
+  "generated_at": "2026-06-23T01:25:15.373253+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-suobf-20260622190000",
-      "title": "COURSE | The Clearing: Return to Self | Edinburgh",
-      "start_at": "2026-06-22T19:00:00.000+01:00",
-      "end_at": "2026-06-22T20:30:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 8,
-      "attendee_count": 8,
-      "waiting_list": true,
-      "tags": "wellnessbarn; course",
-      "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-suobf-20260622190000"
-    },
     {
       "event_id": "ev-sv0kh-20260706190000",
       "title": "INTRODUCTION to 9D Breathwork | The Origin | Swanston",
