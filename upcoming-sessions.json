@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T06:29:26.094459+00:00",
+  "generated_at": "2026-06-23T10:45:00.915839+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -8,7 +8,7 @@
       "start_at": "2026-07-06T19:00:00.000+01:00",
       "end_at": "2026-07-06T20:30:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 12,
+      "attendee_limit": 0,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "Taster; wellnessbarn; intro",
