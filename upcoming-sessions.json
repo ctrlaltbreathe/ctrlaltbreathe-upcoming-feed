@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T12:02:45.016198+00:00",
+  "generated_at": "2026-06-24T15:10:44.912570+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -21,12 +21,25 @@
       "start_at": "2026-07-12T10:00:00.000+01:00",
       "end_at": "2026-07-12T12:30:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 12,
-      "attendee_count": 9,
+      "attendee_limit": 16,
+      "attendee_count": 10,
       "waiting_list": true,
       "tags": "",
       "location": "Reiki Love Club & Sound Healing School / Studio 1-3 Second Floor / Whitecrook Business Centre / Clydebank / Glasgow / G81 1QF",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sm534-20260712100000"
+    },
+    {
+      "event_id": "ev-s6k4a-20260712133000",
+      "title": "SIGNATURE | Reset, Release, Reconnect | Glasgow",
+      "start_at": "2026-07-12T13:30:00.000+01:00",
+      "end_at": "2026-07-12T15:45:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 16,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "",
+      "location": "Reiki Love Club & Sound Healing School / Studio 1-3 Second Floor / Whitecrook Business Centre / Clydebank / Glasgow / G81 1QF",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s6k4a-20260712133000"
     },
     {
       "event_id": "ev-s1lmg-20260719180000",
@@ -73,7 +86,7 @@
       "start_at": "2026-07-25T10:00:00.000+01:00",
       "end_at": "2026-07-25T16:00:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 20,
+      "attendee_limit": 15,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "immersion",
