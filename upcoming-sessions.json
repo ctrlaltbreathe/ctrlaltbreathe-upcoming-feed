@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T16:33:01.841296+00:00",
+  "generated_at": "2026-06-30T19:09:12.103450+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -112,8 +112,8 @@
       "start_at": "2026-08-02T09:45:00.000+01:00",
       "end_at": "2026-08-02T12:15:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 12,
-      "attendee_count": 11,
+      "attendee_limit": 16,
+      "attendee_count": 12,
       "waiting_list": true,
       "tags": "signature; Signature",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
