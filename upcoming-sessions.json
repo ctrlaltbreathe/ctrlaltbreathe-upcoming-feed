@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-07-03T07:41:10.702938+00:00",
+  "generated_at": "2026-07-03T11:02:14.347185+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-sv0kh-20260706190000",
-      "title": "INTRODUCTION to 9D Breathwork | The Origin | Swanston",
-      "start_at": "2026-07-06T19:00:00.000+01:00",
-      "end_at": "2026-07-06T20:30:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 0,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "Taster; wellnessbarn; intro",
-      "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sv0kh-20260706190000"
-    },
     {
       "event_id": "ev-sm534-20260712100000",
       "title": "SIGNATURE | Reset, Release, Reconnect | Glasgow",
@@ -99,7 +86,7 @@
       "start_at": "2026-08-02T09:45:00.000+01:00",
       "end_at": "2026-08-02T12:15:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 16,
+      "attendee_limit": 20,
       "attendee_count": 16,
       "waiting_list": true,
       "tags": "signature; Signature",
