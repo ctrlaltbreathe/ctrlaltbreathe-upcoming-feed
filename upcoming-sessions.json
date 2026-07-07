@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T18:22:32.808530+00:00",
+  "generated_at": "2026-07-07T20:58:49.702422+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -81,17 +81,17 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sjx70-20260721183000"
     },
     {
-      "event_id": "ev-snjev-20260725100000",
-      "title": "9DMT TRIP Immersion Day",
+      "event_id": "ev-sk6z2-20260725100000",
+      "title": "INTRO | 9D Breathwork Taster Session: Let it go",
       "start_at": "2026-07-25T10:00:00.000+01:00",
-      "end_at": "2026-07-25T16:00:00.000+01:00",
+      "end_at": "2026-07-25T11:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 15,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "immersion",
+      "tags": "intro",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-snjev-20260725100000"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sk6z2-20260725100000"
     },
     {
       "event_id": "ev-sqw5q-20260727190000",
