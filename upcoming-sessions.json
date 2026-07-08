@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T09:39:38.575263+00:00",
+  "generated_at": "2026-07-08T11:58:41.168051+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -35,7 +35,7 @@
       "end_at": "2026-07-13T20:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 10,
-      "attendee_count": 0,
+      "attendee_count": 1,
       "waiting_list": true,
       "tags": "",
       "location": "Zoom - Online",
