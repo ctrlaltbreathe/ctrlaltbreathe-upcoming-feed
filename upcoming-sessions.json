@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T12:16:53.911208+00:00",
+  "generated_at": "2026-07-09T15:38:32.218309+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -112,7 +112,7 @@
       "start_at": "2026-08-02T09:45:00.000+01:00",
       "end_at": "2026-08-02T12:15:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 24,
+      "attendee_limit": 19,
       "attendee_count": 19,
       "waiting_list": true,
       "tags": "signature; Signature",
