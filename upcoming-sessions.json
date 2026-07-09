@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T08:47:56.458089+00:00",
+  "generated_at": "2026-07-09T12:16:53.911208+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -76,7 +76,7 @@
       "attendee_limit": 12,
       "attendee_count": 3,
       "waiting_list": true,
-      "tags": "Signature; 9D; signature",
+      "tags": "Signature; 9D; signature; eastlothian",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sjx70-20260721183000"
     },
@@ -89,7 +89,7 @@
       "attendee_limit": 15,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "intro",
+      "tags": "intro; eastlothian",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sk6z2-20260725100000"
     },
@@ -113,7 +113,7 @@
       "end_at": "2026-08-02T12:15:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 24,
-      "attendee_count": 17,
+      "attendee_count": 19,
       "waiting_list": true,
       "tags": "signature; Signature",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
@@ -147,54 +147,54 @@
     },
     {
       "event_id": "ev-sy1xa-20260824190000",
-      "title": "COURSE | The Rebirth: Trust, Presence & Becoming | Swanston",
+      "title": "COURSE | The Rebirth: Trust, Presence & Becoming | East Lothian ",
       "start_at": "2026-08-24T19:00:00.000+01:00",
       "end_at": "2026-08-24T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 0,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "course; wellnessbarn",
-      "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
+      "tags": "course; wellnessbarn; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260824190000"
     },
     {
       "event_id": "ev-sy1xa-20260831190000",
-      "title": "COURSE | The Rebirth: Trust, Presence & Becoming | Swanston",
+      "title": "COURSE | The Rebirth: Trust, Presence & Becoming | East Lothian ",
       "start_at": "2026-08-31T19:00:00.000+01:00",
       "end_at": "2026-08-31T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 0,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "course; wellnessbarn",
-      "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
+      "tags": "course; wellnessbarn; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260831190000"
     },
     {
       "event_id": "ev-sy1xa-20260907190000",
-      "title": "COURSE | The Rebirth: Trust, Presence & Becoming | Swanston",
+      "title": "COURSE | The Rebirth: Trust, Presence & Becoming | East Lothian ",
       "start_at": "2026-09-07T19:00:00.000+01:00",
       "end_at": "2026-09-07T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 0,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "course; wellnessbarn",
-      "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
+      "tags": "course; wellnessbarn; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260907190000"
     },
     {
       "event_id": "ev-sy1xa-20260914190000",
-      "title": "COURSE | The Rebirth: Trust, Presence & Becoming | Swanston",
+      "title": "COURSE | The Rebirth: Trust, Presence & Becoming | East Lothian ",
       "start_at": "2026-09-14T19:00:00.000+01:00",
       "end_at": "2026-09-14T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 0,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "course; wellnessbarn",
-      "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
+      "tags": "course; wellnessbarn; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260914190000"
     }
   ]
