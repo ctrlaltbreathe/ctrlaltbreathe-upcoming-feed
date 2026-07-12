@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-07-12T22:10:05.535097+00:00",
+  "generated_at": "2026-07-12T23:11:24.603035+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-sm534-20260712100000",
-      "title": "SIGNATURE | Reset, Release, Reconnect | Glasgow",
-      "start_at": "2026-07-12T10:00:00.000+01:00",
-      "end_at": "2026-07-12T12:30:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 16,
-      "attendee_count": 16,
-      "waiting_list": true,
-      "tags": "signature; Signature",
-      "location": "Reiki Love Club & Sound Healing School / Studio 1-3 Second Floor / Whitecrook Business Centre / Clydebank / Glasgow / G81 1QF",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sm534-20260712100000"
-    },
     {
       "event_id": "ev-s4efh-20260713183000",
       "title": "ONLINE | Grief and Loss | 9D Breathwork ",
