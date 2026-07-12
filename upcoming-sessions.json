@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T15:18:36.035499+00:00",
+  "generated_at": "2026-07-12T17:27:50.288526+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -22,7 +22,7 @@
       "end_at": "2026-07-13T20:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 10,
-      "attendee_count": 1,
+      "attendee_count": 2,
       "waiting_list": true,
       "tags": "",
       "location": "Zoom - Online",
@@ -99,7 +99,7 @@
       "start_at": "2026-08-02T09:45:00.000+01:00",
       "end_at": "2026-08-02T12:15:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 19,
+      "attendee_limit": 20,
       "attendee_count": 19,
       "waiting_list": true,
       "tags": "signature; Signature",
