@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T07:42:47.692476+00:00",
+  "generated_at": "2026-07-13T11:31:07.265933+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -9,7 +9,7 @@
       "end_at": "2026-07-13T20:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 10,
-      "attendee_count": 2,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "",
       "location": "Zoom - Online",
@@ -120,56 +120,56 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqw5q-20260810190000"
     },
     {
-      "event_id": "ev-sy1xa-20260824190000",
+      "event_id": "ev-sy1xa-20260824183000",
       "title": "COURSE | The Rebirth: Trust, Presence & Becoming | East Lothian ",
-      "start_at": "2026-08-24T19:00:00.000+01:00",
-      "end_at": "2026-08-24T20:30:00.000+01:00",
+      "start_at": "2026-08-24T18:30:00.000+01:00",
+      "end_at": "2026-08-24T20:00:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 0,
+      "attendee_limit": 10,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "course; wellnessbarn; eastlothian",
+      "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260824190000"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260824183000"
     },
     {
-      "event_id": "ev-sy1xa-20260831190000",
+      "event_id": "ev-sy1xa-20260831183000",
       "title": "COURSE | The Rebirth: Trust, Presence & Becoming | East Lothian ",
-      "start_at": "2026-08-31T19:00:00.000+01:00",
-      "end_at": "2026-08-31T20:30:00.000+01:00",
+      "start_at": "2026-08-31T18:30:00.000+01:00",
+      "end_at": "2026-08-31T20:00:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 0,
+      "attendee_limit": 10,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "course; wellnessbarn; eastlothian",
+      "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260831190000"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260831183000"
     },
     {
-      "event_id": "ev-sy1xa-20260907190000",
+      "event_id": "ev-sy1xa-20260907183000",
       "title": "COURSE | The Rebirth: Trust, Presence & Becoming | East Lothian ",
-      "start_at": "2026-09-07T19:00:00.000+01:00",
-      "end_at": "2026-09-07T20:30:00.000+01:00",
+      "start_at": "2026-09-07T18:30:00.000+01:00",
+      "end_at": "2026-09-07T20:00:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 0,
+      "attendee_limit": 10,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "course; wellnessbarn; eastlothian",
+      "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260907190000"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260907183000"
     },
     {
-      "event_id": "ev-sy1xa-20260914190000",
+      "event_id": "ev-sy1xa-20260914183000",
       "title": "COURSE | The Rebirth: Trust, Presence & Becoming | East Lothian ",
-      "start_at": "2026-09-14T19:00:00.000+01:00",
-      "end_at": "2026-09-14T20:30:00.000+01:00",
+      "start_at": "2026-09-14T18:30:00.000+01:00",
+      "end_at": "2026-09-14T20:00:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 0,
+      "attendee_limit": 10,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "course; wellnessbarn; eastlothian",
+      "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260914190000"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260914183000"
     }
   ]
 }
