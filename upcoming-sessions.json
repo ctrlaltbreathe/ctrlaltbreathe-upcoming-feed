@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-07-13T22:13:38.179526+00:00",
+  "generated_at": "2026-07-13T23:15:34.468850+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-s4efh-20260713183000",
-      "title": "ONLINE | Grief and Loss | 9D Breathwork ",
-      "start_at": "2026-07-13T18:30:00.000+01:00",
-      "end_at": "2026-07-13T20:00:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 10,
-      "attendee_count": 3,
-      "waiting_list": true,
-      "tags": "",
-      "location": "Zoom - Online",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s4efh-20260713183000"
-    },
     {
       "event_id": "ev-s1lmg-20260719180000",
       "title": "SIGNATURE | From Fury to Freedom | Swanston ",
