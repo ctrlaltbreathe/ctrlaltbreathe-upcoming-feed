@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T11:51:32.290735+00:00",
+  "generated_at": "2026-07-15T14:13:23.992094+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -35,7 +35,7 @@
       "end_at": "2026-07-21T20:45:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 2,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "Signature; 9D; signature; eastlothian",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
@@ -48,7 +48,7 @@
       "end_at": "2026-07-25T11:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 10,
-      "attendee_count": 7,
+      "attendee_count": 8,
       "waiting_list": true,
       "tags": "intro; eastlothian",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
