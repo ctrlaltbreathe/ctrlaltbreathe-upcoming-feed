@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T09:22:45.919279+00:00",
+  "generated_at": "2026-07-17T11:42:42.624895+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -22,7 +22,7 @@
       "end_at": "2026-07-20T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 2,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "wellnessbarn; course",
       "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
@@ -61,7 +61,7 @@
       "end_at": "2026-07-27T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 2,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "wellnessbarn; course",
       "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
@@ -87,7 +87,7 @@
       "end_at": "2026-08-03T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 2,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "wellnessbarn; course",
       "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
@@ -100,7 +100,7 @@
       "end_at": "2026-08-10T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 2,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "wellnessbarn; course",
       "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
