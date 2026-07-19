@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-07-19T22:11:11.793134+00:00",
+  "generated_at": "2026-07-19T23:14:04.338642+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-s1lmg-20260719180000",
-      "title": "SIGNATURE | From Fury to Freedom | Swanston ",
-      "start_at": "2026-07-19T18:00:00.000+01:00",
-      "end_at": "2026-07-19T20:15:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 12,
-      "attendee_count": 4,
-      "waiting_list": true,
-      "tags": "Signature; 9D; wellnessbarn; signature",
-      "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s1lmg-20260719180000"
-    },
     {
       "event_id": "ev-sqw5q-20260720190000",
       "title": "COURSE | The Release: From Survival to Sovereignty | Swanston",
