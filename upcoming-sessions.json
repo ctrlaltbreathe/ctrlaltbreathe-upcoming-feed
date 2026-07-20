@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T13:20:20.134772+00:00",
+  "generated_at": "2026-07-20T16:02:42.608013+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -133,17 +133,17 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260907183000"
     },
     {
-      "event_id": "ev-szrc8-20260913214500",
+      "event_id": "ev-szrc8-20260913094500",
       "title": "SIGNATURE | Theme: Unleash Your Power | Livingston",
-      "start_at": "2026-09-13T21:45:00.000+01:00",
-      "end_at": "2026-09-14T00:15:00.000+01:00",
+      "start_at": "2026-09-13T09:45:00.000+01:00",
+      "end_at": "2026-09-13T12:15:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 16,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "signature; Signature",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-szrc8-20260913214500"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-szrc8-20260913094500"
     },
     {
       "event_id": "ev-sy1xa-20260914183000",
