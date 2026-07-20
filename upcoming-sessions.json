@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-07-20T22:14:42.399777+00:00",
+  "generated_at": "2026-07-20T23:26:39.442115+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-sqw5q-20260720190000",
-      "title": "COURSE | The Release: From Survival to Sovereignty | Swanston",
-      "start_at": "2026-07-20T19:00:00.000+01:00",
-      "end_at": "2026-07-20T20:30:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 12,
-      "attendee_count": 3,
-      "waiting_list": true,
-      "tags": "wellnessbarn; course",
-      "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqw5q-20260720190000"
-    },
     {
       "event_id": "ev-sjx70-20260721183000",
       "title": "SIGNATURE | Grief and Loss | Longniddry",
@@ -22,7 +9,7 @@
       "end_at": "2026-07-21T20:45:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 7,
+      "attendee_count": 8,
       "waiting_list": true,
       "tags": "Signature; 9D; signature; eastlothian",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
