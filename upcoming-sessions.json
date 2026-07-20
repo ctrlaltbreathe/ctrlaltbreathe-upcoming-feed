@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:02:42.608013+00:00",
+  "generated_at": "2026-07-20T18:22:11.945062+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -22,7 +22,7 @@
       "end_at": "2026-07-21T20:45:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 6,
+      "attendee_count": 8,
       "waiting_list": true,
       "tags": "Signature; 9D; signature; eastlothian",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
