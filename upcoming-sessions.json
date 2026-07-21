@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T16:44:58.481280+00:00",
+  "generated_at": "2026-07-21T18:42:04.270086+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -22,7 +22,7 @@
       "end_at": "2026-07-25T11:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 15,
-      "attendee_count": 10,
+      "attendee_count": 11,
       "waiting_list": true,
       "tags": "intro; eastlothian",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
