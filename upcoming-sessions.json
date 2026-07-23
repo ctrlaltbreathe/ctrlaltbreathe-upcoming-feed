@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T06:41:16.443049+00:00",
+  "generated_at": "2026-07-23T09:39:04.923280+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -68,43 +68,30 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqw5q-20260810190000"
     },
     {
-      "event_id": "ev-sy1xa-20260824183000",
-      "title": "COURSE | The Rebirth: Trust, Presence & Becoming | East Lothian ",
+      "event_id": "ev-srv8n-20260824183000",
+      "title": "INTRO | 9D Breathwork Taster Session: Let it go",
       "start_at": "2026-08-24T18:30:00.000+01:00",
       "end_at": "2026-08-24T20:00:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 15,
+      "attendee_limit": 8,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260824183000"
+      "tags": "intro; eastlothian",
+      "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-srv8n-20260824183000"
     },
     {
-      "event_id": "ev-sy1xa-20260831183000",
-      "title": "COURSE | The Rebirth: Trust, Presence & Becoming | East Lothian ",
+      "event_id": "ev-s3lou-20260831183000",
+      "title": "INTRO | 9D Breathwork Taster Session: Let it go",
       "start_at": "2026-08-31T18:30:00.000+01:00",
       "end_at": "2026-08-31T20:00:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 15,
+      "attendee_limit": 8,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260831183000"
-    },
-    {
-      "event_id": "ev-sy1xa-20260907183000",
-      "title": "COURSE | The Rebirth: Trust, Presence & Becoming | East Lothian ",
-      "start_at": "2026-09-07T18:30:00.000+01:00",
-      "end_at": "2026-09-07T20:00:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 15,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260907183000"
+      "tags": "intro; eastlothian",
+      "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s3lou-20260831183000"
     },
     {
       "event_id": "ev-szrc8-20260913094500",
@@ -118,19 +105,6 @@
       "tags": "signature; Signature",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-szrc8-20260913094500"
-    },
-    {
-      "event_id": "ev-sy1xa-20260914183000",
-      "title": "COURSE | The Rebirth: Trust, Presence & Becoming | East Lothian ",
-      "start_at": "2026-09-14T18:30:00.000+01:00",
-      "end_at": "2026-09-14T20:00:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 15,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260914183000"
     },
     {
       "event_id": "ev-shhzm-20260920100000",
