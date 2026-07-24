@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T19:48:57.826333+00:00",
+  "generated_at": "2026-07-24T21:30:48.920605+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -8,7 +8,7 @@
       "start_at": "2026-07-25T10:00:00.000+01:00",
       "end_at": "2026-07-25T11:30:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 16,
+      "attendee_limit": 15,
       "attendee_count": 15,
       "waiting_list": true,
       "tags": "intro; eastlothian",
