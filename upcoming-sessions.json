@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:54:16.743655+00:00",
+  "generated_at": "2026-07-24T19:48:57.826333+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -8,8 +8,8 @@
       "start_at": "2026-07-25T10:00:00.000+01:00",
       "end_at": "2026-07-25T11:30:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 15,
-      "attendee_count": 13,
+      "attendee_limit": 16,
+      "attendee_count": 15,
       "waiting_list": true,
       "tags": "intro; eastlothian",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
@@ -94,6 +94,19 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s7n32-20260831183000"
     },
     {
+      "event_id": "ev-s6jch-20260906093000",
+      "title": "SIGNATURE | You Are Enough | Cockenzie",
+      "start_at": "2026-09-06T09:30:00.000+01:00",
+      "end_at": "2026-09-06T12:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 10,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "signature; Signature",
+      "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s6jch-20260906093000"
+    },
+    {
       "event_id": "ev-sy1xa-20260907183000",
       "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
       "start_at": "2026-09-07T18:30:00.000+01:00",
@@ -134,7 +147,7 @@
     },
     {
       "event_id": "ev-shhzm-20260920100000",
-      "title": "SIGNATURE | You Are Enough| 9D Breathwork Journey | Glasgow",
+      "title": "SIGNATURE | You Are Enough | 9D Breathwork Journey | Glasgow",
       "start_at": "2026-09-20T10:00:00.000+01:00",
       "end_at": "2026-09-20T12:30:00.000+01:00",
       "cancelled_at": null,
