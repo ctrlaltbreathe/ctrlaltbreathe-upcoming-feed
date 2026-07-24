@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:49:07.002855+00:00",
+  "generated_at": "2026-07-24T17:54:16.743655+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -69,29 +69,42 @@
     },
     {
       "event_id": "ev-srv8n-20260824183000",
-      "title": "INTRO | 9D Breathwork Taster Session: Let it go",
+      "title": "INTRO | 9D Breathwork Taster Session: The Origin",
       "start_at": "2026-08-24T18:30:00.000+01:00",
       "end_at": "2026-08-24T20:00:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 8,
+      "attendee_limit": 12,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "intro; eastlothian",
-      "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-srv8n-20260824183000"
     },
     {
-      "event_id": "ev-s3lou-20260831183000",
-      "title": "INTRO | 9D Breathwork Taster Session: Let it go",
+      "event_id": "ev-s7n32-20260831183000",
+      "title": "INTRO | 9D Breathwork Taster Session: The Awakening",
       "start_at": "2026-08-31T18:30:00.000+01:00",
       "end_at": "2026-08-31T20:00:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 8,
+      "attendee_limit": 12,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "intro; eastlothian",
-      "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s3lou-20260831183000"
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s7n32-20260831183000"
+    },
+    {
+      "event_id": "ev-sy1xa-20260907183000",
+      "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
+      "start_at": "2026-09-07T18:30:00.000+01:00",
+      "end_at": "2026-09-07T20:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 15,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260907183000"
     },
     {
       "event_id": "ev-szrc8-20260913094500",
@@ -107,6 +120,19 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-szrc8-20260913094500"
     },
     {
+      "event_id": "ev-sy1xa-20260914183000",
+      "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
+      "start_at": "2026-09-14T18:30:00.000+01:00",
+      "end_at": "2026-09-14T20:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 15,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260914183000"
+    },
+    {
       "event_id": "ev-shhzm-20260920100000",
       "title": "SIGNATURE | You Are Enough| 9D Breathwork Journey | Glasgow",
       "start_at": "2026-09-20T10:00:00.000+01:00",
@@ -118,6 +144,58 @@
       "tags": "signature; Signature",
       "location": "Reiki Love Club & Sound Healing School / Studio 1-3 Second Floor / Whitecrook Business Centre / Clydebank / Glasgow / G81 1QF",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-shhzm-20260920100000"
+    },
+    {
+      "event_id": "ev-sy1xa-20260921183000",
+      "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
+      "start_at": "2026-09-21T18:30:00.000+01:00",
+      "end_at": "2026-09-21T20:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 15,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260921183000"
+    },
+    {
+      "event_id": "ev-sy1xa-20260928183000",
+      "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
+      "start_at": "2026-09-28T18:30:00.000+01:00",
+      "end_at": "2026-09-28T20:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 15,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260928183000"
+    },
+    {
+      "event_id": "ev-sy1xa-20261005183000",
+      "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
+      "start_at": "2026-10-05T18:30:00.000+01:00",
+      "end_at": "2026-10-05T20:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 15,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20261005183000"
+    },
+    {
+      "event_id": "ev-sy1xa-20261012183000",
+      "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
+      "start_at": "2026-10-12T18:30:00.000+01:00",
+      "end_at": "2026-10-12T20:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 15,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20261012183000"
     }
   ]
 }
