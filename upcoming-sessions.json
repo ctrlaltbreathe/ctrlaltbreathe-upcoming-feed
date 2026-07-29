@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:46:46.172895+00:00",
+  "generated_at": "2026-07-29T21:13:59.334108+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -42,8 +42,8 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqw5q-20260810190000"
     },
     {
-      "event_id": "ev-s7n32-20260831183000",
-      "title": "INTRO | 9D Breathwork Taster Session: The Awakening",
+      "event_id": "ev-srv8n-20260831183000",
+      "title": "INTRO | 9D Breathwork Taster Session: The Origin",
       "start_at": "2026-08-31T18:30:00.000+01:00",
       "end_at": "2026-08-31T20:00:00.000+01:00",
       "cancelled_at": null,
@@ -52,7 +52,7 @@
       "waiting_list": true,
       "tags": "intro; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s7n32-20260831183000"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-srv8n-20260831183000"
     },
     {
       "event_id": "ev-s6jch-20260906093000",
