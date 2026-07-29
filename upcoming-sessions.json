@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T17:40:39.321018+00:00",
+  "generated_at": "2026-07-29T19:46:46.172895+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -40,19 +40,6 @@
       "tags": "wellnessbarn; course",
       "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqw5q-20260810190000"
-    },
-    {
-      "event_id": "ev-srv8n-20260824183000",
-      "title": "INTRO | 9D Breathwork Taster Session: The Origin",
-      "start_at": "2026-08-24T18:30:00.000+01:00",
-      "end_at": "2026-08-24T20:00:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 12,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "intro; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-srv8n-20260824183000"
     },
     {
       "event_id": "ev-s7n32-20260831183000",
