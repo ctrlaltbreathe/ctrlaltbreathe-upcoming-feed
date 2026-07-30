@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T09:44:32.052124+00:00",
+  "generated_at": "2026-07-30T12:06:03.202013+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -69,7 +69,7 @@
     },
     {
       "event_id": "ev-sy1xa-20260907183000",
-      "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
+      "title": "COURSE | The Origin Path : Return to Self | Cockenzie",
       "start_at": "2026-09-07T18:30:00.000+01:00",
       "end_at": "2026-09-07T20:00:00.000+01:00",
       "cancelled_at": null,
@@ -95,7 +95,7 @@
     },
     {
       "event_id": "ev-sy1xa-20260914183000",
-      "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
+      "title": "COURSE | The Origin Path : Return to Self | Cockenzie",
       "start_at": "2026-09-14T18:30:00.000+01:00",
       "end_at": "2026-09-14T20:00:00.000+01:00",
       "cancelled_at": null,
@@ -121,7 +121,7 @@
     },
     {
       "event_id": "ev-sy1xa-20260921183000",
-      "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
+      "title": "COURSE | The Origin Path : Return to Self | Cockenzie",
       "start_at": "2026-09-21T18:30:00.000+01:00",
       "end_at": "2026-09-21T20:00:00.000+01:00",
       "cancelled_at": null,
@@ -134,7 +134,7 @@
     },
     {
       "event_id": "ev-sy1xa-20260928183000",
-      "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
+      "title": "COURSE | The Origin Path : Return to Self | Cockenzie",
       "start_at": "2026-09-28T18:30:00.000+01:00",
       "end_at": "2026-09-28T20:00:00.000+01:00",
       "cancelled_at": null,
@@ -147,7 +147,7 @@
     },
     {
       "event_id": "ev-sy1xa-20261005183000",
-      "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
+      "title": "COURSE | The Origin Path : Return to Self | Cockenzie",
       "start_at": "2026-10-05T18:30:00.000+01:00",
       "end_at": "2026-10-05T20:00:00.000+01:00",
       "cancelled_at": null,
@@ -160,7 +160,7 @@
     },
     {
       "event_id": "ev-sy1xa-20261012183000",
-      "title": "COURSE | The Reset Path: Return to Self | Cockenzie",
+      "title": "COURSE | The Origin Path : Return to Self | Cockenzie",
       "start_at": "2026-10-12T18:30:00.000+01:00",
       "end_at": "2026-10-12T20:00:00.000+01:00",
       "cancelled_at": null,
