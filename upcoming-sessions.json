@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-08-02T22:12:55.532859+00:00",
+  "generated_at": "2026-08-02T23:15:02.985691+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-s6t86-20260802094500",
-      "title": "SIGNATURE | Theme: Your Next Chapter | Livingston",
-      "start_at": "2026-08-02T09:45:00.000+01:00",
-      "end_at": "2026-08-02T12:15:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 20,
-      "attendee_count": 20,
-      "waiting_list": true,
-      "tags": "signature; Signature",
-      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s6t86-20260802094500"
-    },
     {
       "event_id": "ev-sqw5q-20260803190000",
       "title": "COURSE | The Release: From Survival to Sovereignty | Swanston",
