@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T12:18:37.052871+00:00",
+  "generated_at": "2026-08-05T15:30:35.017192+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -157,6 +157,84 @@
       "tags": "intro; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-smkch-20261019183000"
+    },
+    {
+      "event_id": "ev-sqdtt-20261025214500",
+      "title": "COURSE | The Origin Path : Return to Self | Livingston",
+      "start_at": "2026-10-25T21:45:00.000+00:00",
+      "end_at": "2026-10-25T23:15:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 0,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course",
+      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20261025214500"
+    },
+    {
+      "event_id": "ev-sqdtt-20261101214500",
+      "title": "COURSE | The Origin Path : Return to Self | Livingston",
+      "start_at": "2026-11-01T21:45:00.000+00:00",
+      "end_at": "2026-11-01T23:15:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 0,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course",
+      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20261101214500"
+    },
+    {
+      "event_id": "ev-sqdtt-20261108214500",
+      "title": "COURSE | The Origin Path : Return to Self | Livingston",
+      "start_at": "2026-11-08T21:45:00.000+00:00",
+      "end_at": "2026-11-08T23:15:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 0,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course",
+      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20261108214500"
+    },
+    {
+      "event_id": "ev-sqdtt-20261115214500",
+      "title": "COURSE | The Origin Path : Return to Self | Livingston",
+      "start_at": "2026-11-15T21:45:00.000+00:00",
+      "end_at": "2026-11-15T23:15:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 0,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course",
+      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20261115214500"
+    },
+    {
+      "event_id": "ev-sqdtt-20261122214500",
+      "title": "COURSE | The Origin Path : Return to Self | Livingston",
+      "start_at": "2026-11-22T21:45:00.000+00:00",
+      "end_at": "2026-11-22T23:15:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 0,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course",
+      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20261122214500"
+    },
+    {
+      "event_id": "ev-sqdtt-20261129214500",
+      "title": "COURSE | The Origin Path : Return to Self | Livingston",
+      "start_at": "2026-11-29T21:45:00.000+00:00",
+      "end_at": "2026-11-29T23:15:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 0,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course",
+      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20261129214500"
     }
   ]
 }
