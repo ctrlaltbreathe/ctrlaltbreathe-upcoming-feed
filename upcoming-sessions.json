@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T13:51:12.464270+00:00",
+  "generated_at": "2026-08-13T15:17:22.225917+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "event_id": "ev-sy1xa-20260907183000",
-      "title": "COURSE | The Origin Path : Return to Self | Cockenzie",
+      "title": "COURSE | The Origin Path : Reconnect with self | Cockenzie",
       "start_at": "2026-09-07T18:30:00.000+01:00",
       "end_at": "2026-09-07T20:00:00.000+01:00",
       "cancelled_at": null,
@@ -56,7 +56,7 @@
     },
     {
       "event_id": "ev-sy1xa-20260914183000",
-      "title": "COURSE | The Origin Path : Return to Self | Cockenzie",
+      "title": "COURSE | The Origin Path : Reconnect with self | Cockenzie",
       "start_at": "2026-09-14T18:30:00.000+01:00",
       "end_at": "2026-09-14T20:00:00.000+01:00",
       "cancelled_at": null,
@@ -82,7 +82,7 @@
     },
     {
       "event_id": "ev-sy1xa-20260921183000",
-      "title": "COURSE | The Origin Path : Return to Self | Cockenzie",
+      "title": "COURSE | The Origin Path : Reconnect with self | Cockenzie",
       "start_at": "2026-09-21T18:30:00.000+01:00",
       "end_at": "2026-09-21T20:00:00.000+01:00",
       "cancelled_at": null,
@@ -95,7 +95,7 @@
     },
     {
       "event_id": "ev-sy1xa-20260928183000",
-      "title": "COURSE | The Origin Path : Return to Self | Cockenzie",
+      "title": "COURSE | The Origin Path : Reconnect with self | Cockenzie",
       "start_at": "2026-09-28T18:30:00.000+01:00",
       "end_at": "2026-09-28T20:00:00.000+01:00",
       "cancelled_at": null,
@@ -108,7 +108,7 @@
     },
     {
       "event_id": "ev-sy1xa-20261005183000",
-      "title": "COURSE | The Origin Path : Return to Self | Cockenzie",
+      "title": "COURSE | The Origin Path : Reconnect with self | Cockenzie",
       "start_at": "2026-10-05T18:30:00.000+01:00",
       "end_at": "2026-10-05T20:00:00.000+01:00",
       "cancelled_at": null,
@@ -121,7 +121,7 @@
     },
     {
       "event_id": "ev-sy1xa-20261012183000",
-      "title": "COURSE | The Origin Path : Return to Self | Cockenzie",
+      "title": "COURSE | The Origin Path : Reconnect with self | Cockenzie",
       "start_at": "2026-10-12T18:30:00.000+01:00",
       "end_at": "2026-10-12T20:00:00.000+01:00",
       "cancelled_at": null,
@@ -133,17 +133,82 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20261012183000"
     },
     {
-      "event_id": "ev-smkch-20261019183000",
-      "title": "INTRO | 9D Breathwork Taster Session: The Awakening",
+      "event_id": "ev-sduyv-20261019183000",
+      "title": "COURSE | The Emergence Path | Cockenzie",
       "start_at": "2026-10-19T18:30:00.000+01:00",
       "end_at": "2026-10-19T20:00:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 12,
+      "attendee_limit": 10,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "intro; eastlothian",
+      "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-smkch-20261019183000"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261019183000"
+    },
+    {
+      "event_id": "ev-sduyv-20261026183000",
+      "title": "COURSE | The Emergence Path | Cockenzie",
+      "start_at": "2026-10-26T18:30:00.000+00:00",
+      "end_at": "2026-10-26T20:00:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 10,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261026183000"
+    },
+    {
+      "event_id": "ev-sduyv-20261116183000",
+      "title": "COURSE | The Emergence Path | Cockenzie",
+      "start_at": "2026-11-16T18:30:00.000+00:00",
+      "end_at": "2026-11-16T20:00:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 10,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261116183000"
+    },
+    {
+      "event_id": "ev-sduyv-20261123183000",
+      "title": "COURSE | The Emergence Path | Cockenzie",
+      "start_at": "2026-11-23T18:30:00.000+00:00",
+      "end_at": "2026-11-23T20:00:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 10,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261123183000"
+    },
+    {
+      "event_id": "ev-sduyv-20261130183000",
+      "title": "COURSE | The Emergence Path | Cockenzie",
+      "start_at": "2026-11-30T18:30:00.000+00:00",
+      "end_at": "2026-11-30T20:00:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 10,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261130183000"
+    },
+    {
+      "event_id": "ev-sduyv-20261214183000",
+      "title": "COURSE | The Emergence Path | Cockenzie",
+      "start_at": "2026-12-14T18:30:00.000+00:00",
+      "end_at": "2026-12-14T20:00:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 10,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "course; eastlothian",
+      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261214183000"
     },
     {
       "event_id": "ev-sqdtt-20270110094500",
