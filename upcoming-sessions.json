@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:50:13.849142+00:00",
+  "generated_at": "2026-08-22T09:44:54.693154+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -79,6 +79,19 @@
       "tags": "signature; Signature",
       "location": "Reiki Love Club & Sound Healing School / Studio 1-3 Second Floor / Whitecrook Business Centre / Clydebank / Glasgow / G81 1QF",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-shhzm-20260920100000"
+    },
+    {
+      "event_id": "ev-sbe5k-20260920153000",
+      "title": "Signature| Liberation Journey | Edinburgh ",
+      "start_at": "2026-09-20T15:30:00.000+01:00",
+      "end_at": "2026-09-20T18:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 16,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "signature; Signature",
+      "location": "SAHARA STUDIO / 11C Murieston Lane / Dalry / Edinburgh / EH11 2LX",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sbe5k-20260920153000"
     },
     {
       "event_id": "ev-sy1xa-20260921183000",
