@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T05:26:59.973844+00:00",
+  "generated_at": "2026-08-28T18:46:59.372815+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -9,7 +9,7 @@
       "end_at": "2026-08-31T20:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 1,
+      "attendee_count": 2,
       "waiting_list": true,
       "tags": "intro; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
@@ -73,8 +73,8 @@
       "start_at": "2026-09-20T10:00:00.000+01:00",
       "end_at": "2026-09-20T12:30:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 14,
-      "attendee_count": 9,
+      "attendee_limit": 16,
+      "attendee_count": 15,
       "waiting_list": true,
       "tags": "signature; Signature",
       "location": "Reiki Love Club & Sound Healing School / Studio 1-3 Second Floor / Whitecrook Business Centre / Clydebank / Glasgow / G81 1QF",
