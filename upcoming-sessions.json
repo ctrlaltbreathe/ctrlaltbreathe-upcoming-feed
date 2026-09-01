@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:13:22.540751+00:00",
+  "generated_at": "2026-09-01T14:57:12.603308+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -22,11 +22,24 @@
       "end_at": "2026-09-07T20:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 10,
-      "attendee_count": 3,
+      "attendee_count": 4,
       "waiting_list": true,
       "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260907183000"
+    },
+    {
+      "event_id": "ev-s3pxm-20260909190000",
+      "title": "Relax & Reset | Online 9D Breathwork",
+      "start_at": "2026-09-09T19:00:00.000+01:00",
+      "end_at": "2026-09-09T20:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 8,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "intro",
+      "location": "Zoom - Online",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s3pxm-20260909190000"
     },
     {
       "event_id": "ev-szrc8-20260913094500",
@@ -48,7 +61,7 @@
       "end_at": "2026-09-14T20:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 10,
-      "attendee_count": 3,
+      "attendee_count": 4,
       "waiting_list": true,
       "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
@@ -87,11 +100,24 @@
       "end_at": "2026-09-21T20:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 10,
-      "attendee_count": 3,
+      "attendee_count": 4,
       "waiting_list": true,
       "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260921183000"
+    },
+    {
+      "event_id": "ev-sgcbv-20260923190000",
+      "title": "Relax & Reset | Online 9D Breathwork",
+      "start_at": "2026-09-23T19:00:00.000+01:00",
+      "end_at": "2026-09-23T20:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 8,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "intro",
+      "location": "Zoom - Online",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sgcbv-20260923190000"
     },
     {
       "event_id": "ev-sy1xa-20260928183000",
@@ -100,11 +126,24 @@
       "end_at": "2026-09-28T20:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 10,
-      "attendee_count": 3,
+      "attendee_count": 4,
       "waiting_list": true,
       "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260928183000"
+    },
+    {
+      "event_id": "ev-sp92f-20260930100000",
+      "title": "Relax & Reset | Online 9D Breathwork",
+      "start_at": "2026-09-30T10:00:00.000+01:00",
+      "end_at": "2026-09-30T11:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 8,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "intro",
+      "location": "Zoom - Online",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sp92f-20260930100000"
     },
     {
       "event_id": "ev-sy1xa-20261005183000",
@@ -113,7 +152,7 @@
       "end_at": "2026-10-05T20:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 10,
-      "attendee_count": 3,
+      "attendee_count": 4,
       "waiting_list": true,
       "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
@@ -126,7 +165,7 @@
       "end_at": "2026-10-12T20:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 10,
-      "attendee_count": 3,
+      "attendee_count": 4,
       "waiting_list": true,
       "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
