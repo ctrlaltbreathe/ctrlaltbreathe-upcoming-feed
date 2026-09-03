@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T05:52:26.914901+00:00",
+  "generated_at": "2026-09-03T11:21:09.989032+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -29,17 +29,17 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260907183000"
     },
     {
-      "event_id": "ev-s3pxm-20260909190000",
+      "event_id": "ev-s3pxm-20260908190000",
       "title": "Relax & Reset | Online 9D Breathwork",
-      "start_at": "2026-09-09T19:00:00.000+01:00",
-      "end_at": "2026-09-09T20:00:00.000+01:00",
+      "start_at": "2026-09-08T19:00:00.000+01:00",
+      "end_at": "2026-09-08T20:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 8,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "intro",
       "location": "Zoom - Online",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s3pxm-20260909190000"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s3pxm-20260908190000"
     },
     {
       "event_id": "ev-szrc8-20260913094500",
@@ -250,82 +250,82 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261214183000"
     },
     {
-      "event_id": "ev-sqdtt-20270110094500",
+      "event_id": "ev-sqdtt-20270110100000",
       "title": "COURSE | Liberation: Return to Self | Livingston",
-      "start_at": "2027-01-10T09:45:00.000+00:00",
-      "end_at": "2027-01-10T11:15:00.000+00:00",
+      "start_at": "2027-01-10T10:00:00.000+00:00",
+      "end_at": "2027-01-10T11:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "course",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270110094500"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270110100000"
     },
     {
-      "event_id": "ev-sqdtt-20270117094500",
+      "event_id": "ev-sqdtt-20270117100000",
       "title": "COURSE | Liberation: Return to Self | Livingston",
-      "start_at": "2027-01-17T09:45:00.000+00:00",
-      "end_at": "2027-01-17T11:15:00.000+00:00",
+      "start_at": "2027-01-17T10:00:00.000+00:00",
+      "end_at": "2027-01-17T11:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "course",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270117094500"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270117100000"
     },
     {
-      "event_id": "ev-sqdtt-20270124094500",
+      "event_id": "ev-sqdtt-20270124100000",
       "title": "COURSE | Liberation: Return to Self | Livingston",
-      "start_at": "2027-01-24T09:45:00.000+00:00",
-      "end_at": "2027-01-24T11:15:00.000+00:00",
+      "start_at": "2027-01-24T10:00:00.000+00:00",
+      "end_at": "2027-01-24T11:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "course",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270124094500"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270124100000"
     },
     {
-      "event_id": "ev-sqdtt-20270131094500",
+      "event_id": "ev-sqdtt-20270131100000",
       "title": "COURSE | Liberation: Return to Self | Livingston",
-      "start_at": "2027-01-31T09:45:00.000+00:00",
-      "end_at": "2027-01-31T11:15:00.000+00:00",
+      "start_at": "2027-01-31T10:00:00.000+00:00",
+      "end_at": "2027-01-31T11:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "course",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270131094500"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270131100000"
     },
     {
-      "event_id": "ev-sqdtt-20270207094500",
+      "event_id": "ev-sqdtt-20270207100000",
       "title": "COURSE | Liberation: Return to Self | Livingston",
-      "start_at": "2027-02-07T09:45:00.000+00:00",
-      "end_at": "2027-02-07T11:15:00.000+00:00",
+      "start_at": "2027-02-07T10:00:00.000+00:00",
+      "end_at": "2027-02-07T11:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "course",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270207094500"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270207100000"
     },
     {
-      "event_id": "ev-sqdtt-20270214094500",
+      "event_id": "ev-sqdtt-20270214100000",
       "title": "COURSE | Liberation: Return to Self | Livingston",
-      "start_at": "2027-02-14T09:45:00.000+00:00",
-      "end_at": "2027-02-14T11:15:00.000+00:00",
+      "start_at": "2027-02-14T10:00:00.000+00:00",
+      "end_at": "2027-02-14T11:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "course",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270214094500"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270214100000"
     }
   ]
 }
