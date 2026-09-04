@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T05:58:03.083583+00:00",
+  "generated_at": "2026-09-04T11:24:17.809605+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -107,17 +107,17 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260921183000"
     },
     {
-      "event_id": "ev-sgcbv-20260923190000",
+      "event_id": "ev-sgcbv-20260922190000",
       "title": "Relax & Reset | Online 9D Breathwork",
-      "start_at": "2026-09-23T19:00:00.000+01:00",
-      "end_at": "2026-09-23T20:00:00.000+01:00",
+      "start_at": "2026-09-22T19:00:00.000+01:00",
+      "end_at": "2026-09-22T20:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 8,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "intro",
       "location": "Zoom - Online",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sgcbv-20260923190000"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sgcbv-20260922190000"
     },
     {
       "event_id": "ev-sy1xa-20260928183000",
