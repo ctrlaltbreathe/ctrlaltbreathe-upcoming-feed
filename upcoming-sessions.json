@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:53:07.713999+00:00",
+  "generated_at": "2026-09-05T16:50:54.714658+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -87,7 +87,7 @@
       "end_at": "2026-09-20T18:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 1,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "signature; Signature",
       "location": "SAHARA STUDIO / 11C Murieston Lane / Dalry / Edinburgh / EH11 2LX",
