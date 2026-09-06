@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-06T21:26:14.183545+00:00",
+  "generated_at": "2026-09-06T23:58:41.999980+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-s6jch-20260906093000",
-      "title": "SIGNATURE | You Are Enough | Cockenzie",
-      "start_at": "2026-09-06T09:30:00.000+01:00",
-      "end_at": "2026-09-06T12:00:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 10,
-      "attendee_count": 3,
-      "waiting_list": true,
-      "tags": "signature; Signature",
-      "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s6jch-20260906093000"
-    },
     {
       "event_id": "ev-sy1xa-20260907183000",
       "title": "COURSE | Liberation Path : Reconnect with self | Cockenzie",
