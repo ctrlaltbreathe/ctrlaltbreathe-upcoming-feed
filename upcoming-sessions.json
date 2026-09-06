@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T09:28:46.202995+00:00",
+  "generated_at": "2026-09-06T13:42:05.748133+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -27,19 +27,6 @@
       "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260907183000"
-    },
-    {
-      "event_id": "ev-s3pxm-20260908190000",
-      "title": "Relax & Reset | Online 9D Breathwork",
-      "start_at": "2026-09-08T19:00:00.000+01:00",
-      "end_at": "2026-09-08T20:00:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 8,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "intro",
-      "location": "Zoom - Online",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s3pxm-20260908190000"
     },
     {
       "event_id": "ev-szrc8-20260913094500",
