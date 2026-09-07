@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T10:25:06.442411+00:00",
+  "generated_at": "2026-09-07T16:30:15.763542+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -60,7 +60,7 @@
       "start_at": "2026-09-20T15:30:00.000+01:00",
       "end_at": "2026-09-20T18:00:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 8,
+      "attendee_limit": 16,
       "attendee_count": 4,
       "waiting_list": true,
       "tags": "signature; Signature",
