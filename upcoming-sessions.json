@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T06:01:46.418227+00:00",
+  "generated_at": "2026-09-10T11:26:44.209023+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -43,7 +43,7 @@
     },
     {
       "event_id": "ev-sbe5k-20260920153000",
-      "title": "Signature| Liberation Journey | Edinburgh ",
+      "title": "Liberation | When You Know Something Needs to Change",
       "start_at": "2026-09-20T15:30:00.000+01:00",
       "end_at": "2026-09-20T18:00:00.000+01:00",
       "cancelled_at": null,
@@ -173,7 +173,7 @@
     },
     {
       "event_id": "ev-sqxss-20261115104500",
-      "title": "SIGNATURE | Liberation | Glasgow (East)",
+      "title": "SIGNATURE | Liberation | East Glasgow",
       "start_at": "2026-11-15T10:45:00.000+00:00",
       "end_at": "2026-11-15T13:15:00.000+00:00",
       "cancelled_at": null,
