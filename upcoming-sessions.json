@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T05:52:40.925738+00:00",
+  "generated_at": "2026-09-12T10:52:59.924102+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -120,17 +120,17 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20261005183000"
     },
     {
-      "event_id": "ev-swogp-20261011224500",
+      "event_id": "ev-swogp-20261011104500",
       "title": "Letting Go Journey | Feel Lighter | Glasgow ",
-      "start_at": "2026-10-11T22:45:00.000+01:00",
-      "end_at": "2026-10-12T00:45:00.000+01:00",
+      "start_at": "2026-10-11T10:45:00.000+01:00",
+      "end_at": "2026-10-11T13:15:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 16,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "Signature; signature; glasgow",
       "location": "Flow Yoga & Wellness / Grove House, Tannochside Business Park 1 Kilmartin Place / Uddingston / Glasgow / G71 5PH",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-swogp-20261011224500"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-swogp-20261011104500"
     },
     {
       "event_id": "ev-sy1xa-20261012183000",
