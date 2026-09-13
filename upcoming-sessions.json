@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T19:29:54.884065+00:00",
+  "generated_at": "2026-09-13T22:27:20.754364+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -121,7 +121,7 @@
     },
     {
       "event_id": "ev-swogp-20261011104500",
-      "title": "Letting Go Journey | Feel Lighter | Glasgow ",
+      "title": "Letting Go | Release the Weight | Uddingston",
       "start_at": "2026-10-11T10:45:00.000+01:00",
       "end_at": "2026-10-11T13:15:00.000+01:00",
       "cancelled_at": null,
@@ -131,6 +131,19 @@
       "tags": "Signature; signature; glasgow",
       "location": "Flow Yoga & Wellness / Grove House, Tannochside Business Park 1 Kilmartin Place / Uddingston / Glasgow / G71 5PH",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-swogp-20261011104500"
+    },
+    {
+      "event_id": "ev-std2m-20261011153000",
+      "title": "Letting Go | Release the Weight | Edinburgh",
+      "start_at": "2026-10-11T15:30:00.000+01:00",
+      "end_at": "2026-10-11T18:00:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 12,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "Signature; signature",
+      "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-std2m-20261011153000"
     },
     {
       "event_id": "ev-sy1xa-20261012183000",
