@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T06:22:59.042828+00:00",
+  "generated_at": "2026-09-14T14:09:25.846790+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -126,7 +126,7 @@
       "end_at": "2026-10-11T18:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 0,
+      "attendee_count": 1,
       "waiting_list": true,
       "tags": "Signature; signature",
       "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
