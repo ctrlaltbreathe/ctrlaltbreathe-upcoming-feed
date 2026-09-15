@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:49:31.210094+00:00",
+  "generated_at": "2026-09-15T13:37:36.613318+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -152,10 +152,10 @@
       "end_at": "2026-10-25T12:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 0,
+      "attendee_count": 1,
       "waiting_list": true,
       "tags": "Signature; signature; glasgow",
-      "location": "Flow Yoga & Wellness / Grove House, Tannochside Business Park 1 Kilmartin Place / Uddingston / Glasgow / G71 5PH",
+      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sznxo-20261025100000"
     },
     {
