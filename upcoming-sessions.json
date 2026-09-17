@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:44:47.353384+00:00",
+  "generated_at": "2026-09-17T13:32:31.446288+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -154,7 +154,7 @@
       "attendee_limit": 12,
       "attendee_count": 1,
       "waiting_list": true,
-      "tags": "Signature; signature; glasgow",
+      "tags": "Signature; signature",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sznxo-20261025100000"
     },
@@ -173,7 +173,7 @@
     },
     {
       "event_id": "ev-sqxss-20261115104500",
-      "title": "Liberation Journey | Break Free | Glasgow",
+      "title": "Unleash Your Power | Break Through What\u2019s Holding You Back | Glasgow",
       "start_at": "2026-11-15T10:45:00.000+00:00",
       "end_at": "2026-11-15T13:15:00.000+00:00",
       "cancelled_at": null,
