@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:14:51.335139+00:00",
+  "generated_at": "2026-09-23T00:41:15.544871+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -74,7 +74,7 @@
       "end_at": "2026-10-13T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 7,
+      "attendee_count": 8,
       "waiting_list": true,
       "tags": "Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
