@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:45:11.209895+00:00",
+  "generated_at": "2026-09-23T17:08:52.179634+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -43,7 +43,7 @@
     },
     {
       "event_id": "ev-std2m-20261011153000",
-      "title": "Letting Go | Release the Weight | Edinburgh",
+      "title": "Feel Lighter | Let go, break free | Edinburgh",
       "start_at": "2026-10-11T15:30:00.000+01:00",
       "end_at": "2026-10-11T18:00:00.000+01:00",
       "cancelled_at": null,
@@ -118,6 +118,19 @@
       "tags": "Signature; signature",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sznxo-20261025100000"
+    },
+    {
+      "event_id": "ev-se958-20261025190000",
+      "title": "SWITCH OFF Relaxation with 9D Breathwork | Cockenzie",
+      "start_at": "2026-10-25T19:00:00.000+00:00",
+      "end_at": "2026-10-25T20:30:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 12,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "Signature; signature",
+      "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-se958-20261025190000"
     },
     {
       "event_id": "ev-sduyv-20261026183000",
