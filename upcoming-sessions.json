@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:06:26.401266+00:00",
+  "generated_at": "2026-09-24T15:11:36.033354+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -76,7 +76,7 @@
       "attendee_limit": 12,
       "attendee_count": 12,
       "waiting_list": true,
-      "tags": "Signature; signature",
+      "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sebi4-20261013190000"
     },
@@ -89,7 +89,7 @@
       "attendee_limit": 12,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "Signature; signature",
+      "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-soc74-20261014190000"
     },
@@ -128,7 +128,7 @@
       "attendee_limit": 12,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "Signature; signature",
+      "tags": "switchoff; Signature; signature",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-se958-20261025190000"
     },
@@ -154,7 +154,7 @@
       "attendee_limit": 12,
       "attendee_count": 0,
       "waiting_list": true,
-      "tags": "Signature; signature",
+      "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-suiyu-20261027190000"
     },
