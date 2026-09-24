@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:14:10.168949+00:00",
+  "generated_at": "2026-09-24T22:29:45.450016+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -37,7 +37,7 @@
       "attendee_limit": 12,
       "attendee_count": 1,
       "waiting_list": true,
-      "tags": "Signature; signature; glasgow",
+      "tags": "switchoff; Signature; signature; glasgow",
       "location": "Flow Yoga & Wellness / Grove House, Tannochside Business Park 1 Kilmartin Place / Uddingston / Glasgow / G71 5PH",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-swogp-20261011104500"
     },
@@ -87,7 +87,7 @@
       "end_at": "2026-10-14T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 1,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
