@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:53:11.268925+00:00",
+  "generated_at": "2026-09-25T18:40:56.442094+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -73,7 +73,7 @@
       "start_at": "2026-10-13T19:00:00.000+01:00",
       "end_at": "2026-10-13T20:30:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 12,
+      "attendee_limit": 14,
       "attendee_count": 12,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
@@ -86,7 +86,7 @@
       "start_at": "2026-10-14T19:00:00.000+01:00",
       "end_at": "2026-10-14T20:30:00.000+01:00",
       "cancelled_at": null,
-      "attendee_limit": 12,
+      "attendee_limit": 14,
       "attendee_count": 3,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
@@ -151,7 +151,7 @@
       "start_at": "2026-10-27T19:00:00.000+00:00",
       "end_at": "2026-10-27T20:30:00.000+00:00",
       "cancelled_at": null,
-      "attendee_limit": 12,
+      "attendee_limit": 14,
       "attendee_count": 0,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
