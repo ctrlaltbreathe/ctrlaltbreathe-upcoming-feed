@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T18:40:56.442094+00:00",
+  "generated_at": "2026-09-25T22:25:53.002360+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -74,7 +74,7 @@
       "end_at": "2026-10-13T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 14,
-      "attendee_count": 12,
+      "attendee_count": 13,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
@@ -113,7 +113,7 @@
       "end_at": "2026-10-25T12:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 1,
+      "attendee_count": 2,
       "waiting_list": true,
       "tags": "Signature; signature",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
