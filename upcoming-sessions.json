@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T07:47:52.667578+00:00",
+  "generated_at": "2026-09-26T13:10:05.152122+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -69,7 +69,7 @@
     },
     {
       "event_id": "ev-sebi4-20261013190000",
-      "title": "SWITCH OFF Relaxation with 9D Breathwork (13th 14th, 27th Oct) ",
+      "title": "SWITCH OFF Relaxation with 9D Breathwork",
       "start_at": "2026-10-13T19:00:00.000+01:00",
       "end_at": "2026-10-13T20:30:00.000+01:00",
       "cancelled_at": null,
@@ -82,7 +82,7 @@
     },
     {
       "event_id": "ev-soc74-20261014190000",
-      "title": "SWITCH OFF Relaxation with 9D Breathwork (13th 14th, 27th Oct) ",
+      "title": "SWITCH OFF Relaxation with 9D Breathwork",
       "start_at": "2026-10-14T19:00:00.000+01:00",
       "end_at": "2026-10-14T20:30:00.000+01:00",
       "cancelled_at": null,
@@ -147,7 +147,7 @@
     },
     {
       "event_id": "ev-suiyu-20261027190000",
-      "title": "SWITCH OFF Relaxation with 9D Breathwork (13th 14th, 27th Oct) ",
+      "title": "SWITCH OFF Relaxation with 9D Breathwork",
       "start_at": "2026-10-27T19:00:00.000+00:00",
       "end_at": "2026-10-27T20:30:00.000+00:00",
       "cancelled_at": null,
