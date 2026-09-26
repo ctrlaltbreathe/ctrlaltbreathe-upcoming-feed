@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T19:55:42.612134+00:00",
+  "generated_at": "2026-09-26T22:55:37.122308+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -126,7 +126,7 @@
       "end_at": "2026-10-25T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 2,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
@@ -185,6 +185,19 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261116183000"
     },
     {
+      "event_id": "ev-se6rd-20261117190000",
+      "title": "SWITCH OFF Relaxation with 9D Breathwork",
+      "start_at": "2026-11-17T19:00:00.000+00:00",
+      "end_at": "2026-11-17T20:30:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 14,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "switchoff; Signature; signature",
+      "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-se6rd-20261117190000"
+    },
+    {
       "event_id": "ev-sduyv-20261123183000",
       "title": "COURSE | The Emergence Path | Cockenzie",
       "start_at": "2026-11-23T18:30:00.000+00:00",
@@ -211,6 +224,19 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261130183000"
     },
     {
+      "event_id": "ev-s1lfi-20261201190000",
+      "title": "SWITCH OFF Relaxation with 9D Breathwork",
+      "start_at": "2026-12-01T19:00:00.000+00:00",
+      "end_at": "2026-12-01T20:30:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 14,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "switchoff; Signature; signature",
+      "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s1lfi-20261201190000"
+    },
+    {
       "event_id": "ev-sduyv-20261214183000",
       "title": "COURSE | The Emergence Path | Cockenzie",
       "start_at": "2026-12-14T18:30:00.000+00:00",
@@ -222,6 +248,19 @@
       "tags": "course; eastlothian",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261214183000"
+    },
+    {
+      "event_id": "ev-sdufn-20261215190000",
+      "title": "SWITCH OFF Relaxation with 9D Breathwork",
+      "start_at": "2026-12-15T19:00:00.000+00:00",
+      "end_at": "2026-12-15T20:30:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 14,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "switchoff; Signature; signature",
+      "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sdufn-20261215190000"
     },
     {
       "event_id": "ev-sqdtt-20270110100000",
