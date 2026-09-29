@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-28T22:06:03.629293+00:00",
+  "generated_at": "2026-09-29T02:01:46.392004+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-sy1xa-20260928183000",
-      "title": "COURSE | Liberation Path : Reconnect with self | Cockenzie",
-      "start_at": "2026-09-28T18:30:00.000+01:00",
-      "end_at": "2026-09-28T20:00:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 4,
-      "attendee_count": 4,
-      "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20260928183000"
-    },
     {
       "event_id": "ev-sy1xa-20261005183000",
       "title": "COURSE | Liberation Path : Reconnect with self | Cockenzie",
