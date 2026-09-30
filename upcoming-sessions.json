@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:49:42.205013+00:00",
+  "generated_at": "2026-09-30T19:26:01.011133+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -35,7 +35,7 @@
       "end_at": "2026-10-11T18:00:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 3,
+      "attendee_count": 5,
       "waiting_list": true,
       "tags": "Signature; signature",
       "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
@@ -94,13 +94,26 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261019183000"
     },
     {
+      "event_id": "ev-sdml5-20261020190000",
+      "title": "SWITCH OFF | Relaxation with 9D Breathwork | Edinburgh",
+      "start_at": "2026-10-20T19:00:00.000+01:00",
+      "end_at": "2026-10-20T20:30:00.000+01:00",
+      "cancelled_at": null,
+      "attendee_limit": 12,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "switchoff; Signature; signature",
+      "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sdml5-20261020190000"
+    },
+    {
       "event_id": "ev-sznxo-20261025100000",
       "title": "The Origin | Clear the noise | Livingston",
       "start_at": "2026-10-25T10:00:00.000+00:00",
       "end_at": "2026-10-25T12:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 2,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "Signature; signature",
       "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
