@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-05T22:42:21.875588+00:00",
+  "generated_at": "2026-10-06T03:03:27.606697+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-sy1xa-20261005183000",
-      "title": "COURSE | Liberation Path : Reconnect with self | Cockenzie",
-      "start_at": "2026-10-05T18:30:00.000+01:00",
-      "end_at": "2026-10-05T20:00:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 4,
-      "attendee_count": 4,
-      "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20261005183000"
-    },
     {
       "event_id": "ev-swogp-20261011104500",
       "title": "SWITCH OFF | 9D Relaxation session | Uddingston",
