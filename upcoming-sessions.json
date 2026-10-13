@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:37:32.682420+00:00",
+  "generated_at": "2026-10-13T22:50:38.390614+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -100,7 +100,7 @@
       "end_at": "2026-10-27T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 14,
-      "attendee_count": 2,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
@@ -139,7 +139,7 @@
       "end_at": "2026-11-17T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 14,
-      "attendee_count": 0,
+      "attendee_count": 1,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
@@ -178,7 +178,7 @@
       "end_at": "2026-12-01T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 14,
-      "attendee_count": 0,
+      "attendee_count": 1,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
@@ -204,7 +204,7 @@
       "end_at": "2026-12-15T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 14,
-      "attendee_count": 0,
+      "attendee_count": 1,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
