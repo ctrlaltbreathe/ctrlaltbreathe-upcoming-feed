@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-12T19:50:22.590642+00:00",
+  "generated_at": "2026-10-13T02:03:46.065511+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-sy1xa-20261012183000",
-      "title": "COURSE | Liberation Path : Reconnect with self | Cockenzie",
-      "start_at": "2026-10-12T18:30:00.000+01:00",
-      "end_at": "2026-10-12T20:00:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 4,
-      "attendee_count": 4,
-      "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sy1xa-20261012183000"
-    },
     {
       "event_id": "ev-sebi4-20261013190000",
       "title": "SWITCH OFF | Relaxation with 9D Breathwork | East Lothian",
@@ -61,7 +48,7 @@
       "end_at": "2026-10-20T20:30:00.000+01:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 1,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
