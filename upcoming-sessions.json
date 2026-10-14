@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-13T22:50:38.390614+00:00",
+  "generated_at": "2026-10-14T01:57:03.234929+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-sebi4-20261013190000",
-      "title": "SWITCH OFF | Relaxation with 9D Breathwork | East Lothian",
-      "start_at": "2026-10-13T19:00:00.000+01:00",
-      "end_at": "2026-10-13T20:30:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 14,
-      "attendee_count": 12,
-      "waiting_list": true,
-      "tags": "switchoff; Signature; signature",
-      "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sebi4-20261013190000"
-    },
     {
       "event_id": "ev-soc74-20261014190000",
       "title": "SWITCH OFF | Relaxation with 9D Breathwork | East Lothian",
