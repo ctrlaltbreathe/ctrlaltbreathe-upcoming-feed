@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:30:49.202131+00:00",
+  "generated_at": "2026-10-15T13:29:05.134736+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -48,7 +48,7 @@
       "end_at": "2026-10-25T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 4,
+      "attendee_count": 6,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
