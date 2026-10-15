@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:29:05.134736+00:00",
+  "generated_at": "2026-10-15T18:20:32.899360+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -48,7 +48,7 @@
       "end_at": "2026-10-25T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 6,
+      "attendee_count": 7,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
@@ -120,17 +120,17 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261116183000"
     },
     {
-      "event_id": "ev-se6rd-20261117190000",
+      "event_id": "ev-se6rd-20261118190000",
       "title": "SWITCH OFF | Relaxation with 9D Breathwork | East Lothian",
-      "start_at": "2026-11-17T19:00:00.000+00:00",
-      "end_at": "2026-11-17T20:30:00.000+00:00",
+      "start_at": "2026-11-18T19:00:00.000+00:00",
+      "end_at": "2026-11-18T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 14,
-      "attendee_count": 1,
+      "attendee_count": 0,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-se6rd-20261117190000"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-se6rd-20261118190000"
     },
     {
       "event_id": "ev-sduyv-20261123183000",
