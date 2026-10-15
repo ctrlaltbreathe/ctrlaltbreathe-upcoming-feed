@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-14T22:19:55.544180+00:00",
+  "generated_at": "2026-10-15T01:31:30.575100+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-soc74-20261014190000",
-      "title": "SWITCH OFF | Relaxation with 9D Breathwork | East Lothian",
-      "start_at": "2026-10-14T19:00:00.000+01:00",
-      "end_at": "2026-10-14T20:30:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 14,
-      "attendee_count": 4,
-      "waiting_list": true,
-      "tags": "switchoff; Signature; signature",
-      "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-soc74-20261014190000"
-    },
     {
       "event_id": "ev-sduyv-20261019183000",
       "title": "COURSE | The Emergence Path | Cockenzie",
