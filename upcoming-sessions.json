@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:35:48.843660+00:00",
+  "generated_at": "2026-10-17T09:27:02.465413+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -100,7 +100,7 @@
       "end_at": "2026-11-15T13:15:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 16,
-      "attendee_count": 1,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "Signature; signature; glasgow",
       "location": "Flow Yoga & Wellness / Grove House, Tannochside Business Park 1 Kilmartin Place / Uddingston / Glasgow / G71 5PH",
