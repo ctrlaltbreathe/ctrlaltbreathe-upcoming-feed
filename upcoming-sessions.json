@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-18T20:50:58.617050+00:00",
+  "generated_at": "2026-10-18T23:18:29.863042+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-sduyv-20261019183000",
-      "title": "COURSE | The Emergence Path | Cockenzie",
-      "start_at": "2026-10-19T18:30:00.000+01:00",
-      "end_at": "2026-10-19T20:00:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 0,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261019183000"
-    },
     {
       "event_id": "ev-sdml5-20261020190000",
       "title": "SWITCH OFF | Relaxation with 9D Breathwork | Edinburgh",
@@ -53,19 +40,6 @@
       "tags": "switchoff; Signature; signature",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-se958-20261025190000"
-    },
-    {
-      "event_id": "ev-sduyv-20261026183000",
-      "title": "COURSE | The Emergence Path | Cockenzie",
-      "start_at": "2026-10-26T18:30:00.000+00:00",
-      "end_at": "2026-10-26T20:00:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 0,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261026183000"
     },
     {
       "event_id": "ev-suiyu-20261027190000",
@@ -107,19 +81,6 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqxss-20261115104500"
     },
     {
-      "event_id": "ev-sduyv-20261116183000",
-      "title": "COURSE | The Emergence Path | Cockenzie",
-      "start_at": "2026-11-16T18:30:00.000+00:00",
-      "end_at": "2026-11-16T20:00:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 0,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261116183000"
-    },
-    {
       "event_id": "ev-se6rd-20261118190000",
       "title": "SWITCH OFF | Relaxation with 9D Breathwork | East Lothian",
       "start_at": "2026-11-18T19:00:00.000+00:00",
@@ -133,32 +94,6 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-se6rd-20261118190000"
     },
     {
-      "event_id": "ev-sduyv-20261123183000",
-      "title": "COURSE | The Emergence Path | Cockenzie",
-      "start_at": "2026-11-23T18:30:00.000+00:00",
-      "end_at": "2026-11-23T20:00:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 0,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261123183000"
-    },
-    {
-      "event_id": "ev-sduyv-20261130183000",
-      "title": "COURSE | The Emergence Path | Cockenzie",
-      "start_at": "2026-11-30T18:30:00.000+00:00",
-      "end_at": "2026-11-30T20:00:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 0,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261130183000"
-    },
-    {
       "event_id": "ev-s1lfi-20261201190000",
       "title": "SWITCH OFF | Relaxation with 9D Breathwork | East Lothian",
       "start_at": "2026-12-01T19:00:00.000+00:00",
@@ -170,19 +105,6 @@
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s1lfi-20261201190000"
-    },
-    {
-      "event_id": "ev-sduyv-20261214183000",
-      "title": "COURSE | The Emergence Path | Cockenzie",
-      "start_at": "2026-12-14T18:30:00.000+00:00",
-      "end_at": "2026-12-14T20:00:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 0,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course; eastlothian",
-      "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sduyv-20261214183000"
     },
     {
       "event_id": "ev-sdufn-20261215190000",
