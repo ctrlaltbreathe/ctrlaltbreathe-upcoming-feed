@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:29:45.640056+00:00",
+  "generated_at": "2026-10-20T22:20:48.080598+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -120,19 +120,6 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sdufn-20261215190000"
     },
     {
-      "event_id": "ev-sqdtt-20270110100000",
-      "title": "COURSE | Liberation: Return to Self | Livingston",
-      "start_at": "2027-01-10T10:00:00.000+00:00",
-      "end_at": "2027-01-10T11:30:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 8,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course",
-      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270110100000"
-    },
-    {
       "event_id": "ev-stp46-20270111183000",
       "title": "COURSE | Liberation: Return to Self | East Lothian ",
       "start_at": "2027-01-11T18:30:00.000+00:00",
@@ -144,19 +131,6 @@
       "tags": "course",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-stp46-20270111183000"
-    },
-    {
-      "event_id": "ev-sqdtt-20270117100000",
-      "title": "COURSE | Liberation: Return to Self | Livingston",
-      "start_at": "2027-01-17T10:00:00.000+00:00",
-      "end_at": "2027-01-17T11:30:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 8,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course",
-      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270117100000"
     },
     {
       "event_id": "ev-stp46-20270118183000",
@@ -172,19 +146,6 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-stp46-20270118183000"
     },
     {
-      "event_id": "ev-sqdtt-20270124100000",
-      "title": "COURSE | Liberation: Return to Self | Livingston",
-      "start_at": "2027-01-24T10:00:00.000+00:00",
-      "end_at": "2027-01-24T11:30:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 8,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course",
-      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270124100000"
-    },
-    {
       "event_id": "ev-stp46-20270125183000",
       "title": "COURSE | Liberation: Return to Self | East Lothian ",
       "start_at": "2027-01-25T18:30:00.000+00:00",
@@ -196,19 +157,6 @@
       "tags": "course",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-stp46-20270125183000"
-    },
-    {
-      "event_id": "ev-sqdtt-20270131100000",
-      "title": "COURSE | Liberation: Return to Self | Livingston",
-      "start_at": "2027-01-31T10:00:00.000+00:00",
-      "end_at": "2027-01-31T11:30:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 8,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course",
-      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270131100000"
     },
     {
       "event_id": "ev-stp46-20270201183000",
@@ -224,19 +172,6 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-stp46-20270201183000"
     },
     {
-      "event_id": "ev-sqdtt-20270207100000",
-      "title": "COURSE | Liberation: Return to Self | Livingston",
-      "start_at": "2027-02-07T10:00:00.000+00:00",
-      "end_at": "2027-02-07T11:30:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 8,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course",
-      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270207100000"
-    },
-    {
       "event_id": "ev-stp46-20270208183000",
       "title": "COURSE | Liberation: Return to Self | East Lothian ",
       "start_at": "2027-02-08T18:30:00.000+00:00",
@@ -248,19 +183,6 @@
       "tags": "course",
       "location": "Cockenzie House and Gardens / 22 Edinburgh Road / Cockenzie / Prestonpans / EH32 0HY",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-stp46-20270208183000"
-    },
-    {
-      "event_id": "ev-sqdtt-20270214100000",
-      "title": "COURSE | Liberation: Return to Self | Livingston",
-      "start_at": "2027-02-14T10:00:00.000+00:00",
-      "end_at": "2027-02-14T11:30:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 8,
-      "attendee_count": 0,
-      "waiting_list": true,
-      "tags": "course",
-      "location": "Choose You Yoga Centre / Carmondean Centre South / Livingston / EH54 8PT",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqdtt-20270214100000"
     },
     {
       "event_id": "ev-stp46-20270215183000",
