@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-20T22:20:48.080598+00:00",
+  "generated_at": "2026-10-21T01:39:00.742147+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-sdml5-20261020190000",
-      "title": "SWITCH OFF | Relaxation with 9D Breathwork | Edinburgh",
-      "start_at": "2026-10-20T19:00:00.000+01:00",
-      "end_at": "2026-10-20T20:30:00.000+01:00",
-      "cancelled_at": null,
-      "attendee_limit": 12,
-      "attendee_count": 3,
-      "waiting_list": true,
-      "tags": "switchoff; Signature; signature",
-      "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sdml5-20261020190000"
-    },
     {
       "event_id": "ev-sznxo-20261025100000",
       "title": "The Origin | Clear the noise | Livingston",
