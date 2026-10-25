@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:25:59.388260+00:00",
+  "generated_at": "2026-10-25T21:51:28.879172+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -9,7 +9,7 @@
       "end_at": "2026-10-25T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 16,
-      "attendee_count": 13,
+      "attendee_count": 11,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
@@ -61,7 +61,7 @@
       "end_at": "2026-11-17T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 14,
-      "attendee_count": 0,
+      "attendee_count": 2,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
