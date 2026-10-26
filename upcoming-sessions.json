@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-25T21:51:28.879172+00:00",
+  "generated_at": "2026-10-26T00:26:00.165503+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-se958-20261025190000",
-      "title": "SWITCH OFF Relaxation with 9D Breathwork | Cockenzie",
-      "start_at": "2026-10-25T19:00:00.000+00:00",
-      "end_at": "2026-10-25T20:30:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 16,
-      "attendee_count": 11,
-      "waiting_list": true,
-      "tags": "switchoff; Signature; signature",
-      "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-se958-20261025190000"
-    },
     {
       "event_id": "ev-suiyu-20261027190000",
       "title": "SWITCH OFF | Relaxation with 9D Breathwork | Longniddry",
