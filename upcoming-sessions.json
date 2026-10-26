@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T14:20:45.994873+00:00",
+  "generated_at": "2026-10-26T20:33:10.652641+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -89,7 +89,7 @@
       "attendee_limit": 12,
       "attendee_count": 1,
       "waiting_list": true,
-      "tags": "switchoff; Signature; signature",
+      "tags": "Signature; signature",
       "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqwl2-20261206100000"
     },
