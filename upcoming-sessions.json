@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:17:32.732599+00:00",
+  "generated_at": "2026-10-27T19:27:05.910191+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -9,7 +9,7 @@
       "end_at": "2026-10-27T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 14,
-      "attendee_count": 7,
+      "attendee_count": 5,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
@@ -48,7 +48,7 @@
       "end_at": "2026-11-17T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 14,
-      "attendee_count": 3,
+      "attendee_count": 5,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "The Auld Kirk / High Street / Cockenzie / East Lothian",
