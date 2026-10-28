@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:04:41.239941+00:00",
+  "generated_at": "2026-10-28T18:53:27.991762+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -9,7 +9,7 @@
       "end_at": "2026-10-28T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 10,
-      "attendee_count": 1,
+      "attendee_count": 2,
       "waiting_list": true,
       "tags": "switchoff",
       "location": "Zoom - Online",
