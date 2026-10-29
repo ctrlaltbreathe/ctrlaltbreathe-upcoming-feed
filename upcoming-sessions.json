@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-28T23:16:03.697090+00:00",
+  "generated_at": "2026-10-29T02:31:19.564387+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-sgsoz-20261028191500",
-      "title": "SWITCH OFF | Rest your busy mind | Live on Zoom",
-      "start_at": "2026-10-28T19:15:00.000+00:00",
-      "end_at": "2026-10-28T20:30:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 10,
-      "attendee_count": 2,
-      "waiting_list": true,
-      "tags": "switchoff",
-      "location": "Zoom - Online",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sgsoz-20261028191500"
-    },
     {
       "event_id": "ev-sqxss-20261115104500",
       "title": "Unleash Your Power | Break Through What\u2019s Holding You Back | Glasgow",
