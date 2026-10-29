@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:31:19.564387+00:00",
+  "generated_at": "2026-10-29T10:06:08.033635+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -55,6 +55,19 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-s1lfi-20261201190000"
     },
     {
+      "event_id": "ev-sqqgl-20261202191500",
+      "title": "SWITCH OFF | Rest your busy mind | ONLINE",
+      "start_at": "2026-12-02T19:15:00.000+00:00",
+      "end_at": "2026-12-02T20:30:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 10,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "switchoff",
+      "location": "Zoom - Online",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqqgl-20261202191500"
+    },
+    {
       "event_id": "ev-sqwl2-20261206100000",
       "title": "SIGNATURE | 9DMT Trip: An Experience Beyond the Ordinary | Edinburgh",
       "start_at": "2026-12-06T10:00:00.000+00:00",
@@ -79,6 +92,32 @@
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sdufn-20261215190000"
+    },
+    {
+      "event_id": "ev-sqqgl-20261216191500",
+      "title": "SWITCH OFF | Rest your busy mind | ONLINE",
+      "start_at": "2026-12-16T19:15:00.000+00:00",
+      "end_at": "2026-12-16T20:30:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 10,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "switchoff",
+      "location": "Zoom - Online",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqqgl-20261216191500"
+    },
+    {
+      "event_id": "ev-sqqgl-20261230191500",
+      "title": "SWITCH OFF | Rest your busy mind | ONLINE",
+      "start_at": "2026-12-30T19:15:00.000+00:00",
+      "end_at": "2026-12-30T20:30:00.000+00:00",
+      "cancelled_at": null,
+      "attendee_limit": 10,
+      "attendee_count": 0,
+      "waiting_list": true,
+      "tags": "switchoff",
+      "location": "Zoom - Online",
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqqgl-20261230191500"
     },
     {
       "event_id": "ev-stp46-20270111183000",
