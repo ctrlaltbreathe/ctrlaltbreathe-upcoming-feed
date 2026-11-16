@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-11-15T22:54:30.859935+00:00",
+  "generated_at": "2026-11-16T02:47:55.664762+00:00",
   "source": "bookwhen",
   "events": [
-    {
-      "event_id": "ev-sqxss-20261115104500",
-      "title": "Release - Reset - Transform",
-      "start_at": "2026-11-15T10:45:00.000+00:00",
-      "end_at": "2026-11-15T13:15:00.000+00:00",
-      "cancelled_at": null,
-      "attendee_limit": 16,
-      "attendee_count": 5,
-      "waiting_list": true,
-      "tags": "Signature; signature; glasgow",
-      "location": "Flow Yoga & Wellness / Grove House, Tannochside Business Park 1 Kilmartin Place / Uddingston / Glasgow / G71 5PH",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqxss-20261115104500"
-    },
     {
       "event_id": "ev-skzta-20261117190000",
       "title": "SWITCH OFF | Relaxation with 9D Breathwork | Cockenzie",
