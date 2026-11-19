@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T03:35:59.943827+00:00",
+  "generated_at": "2026-11-19T13:21:27.435413+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "event_id": "ev-s1lfi-20261201190000",
-      "title": "SWITCH OFF | Relaxation with 9D Breathwork | Longniddry",
+      "title": "Calm Before Christmas: Breathwork for Busy Minds",
       "start_at": "2026-12-01T19:00:00.000+00:00",
       "end_at": "2026-12-01T20:30:00.000+00:00",
       "cancelled_at": null,
@@ -55,8 +55,8 @@
       "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sqwl2-20261206100000"
     },
     {
-      "event_id": "ev-sdufn-20261215190000",
-      "title": "SWITCH OFF | Relaxation with 9D Breathwork | Longniddry",
+      "event_id": "ev-sntti-20261215190000",
+      "title": "The Pre-Christmas Reset: The Sovereign Breath",
       "start_at": "2026-12-15T19:00:00.000+00:00",
       "end_at": "2026-12-15T20:30:00.000+00:00",
       "cancelled_at": null,
@@ -65,7 +65,7 @@
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
-      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sdufn-20261215190000"
+      "booking_url": "https://bookwhen.com/ctrlaltbreathe/e/ev-sntti-20261215190000"
     },
     {
       "event_id": "ev-sqqgl-20261216191500",
