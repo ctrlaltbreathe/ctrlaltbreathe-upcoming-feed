@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T04:55:09.289216+00:00",
+  "generated_at": "2026-11-25T15:42:38.199581+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -48,7 +48,7 @@
       "end_at": "2026-12-15T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 14,
-      "attendee_count": 1,
+      "attendee_count": 2,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
