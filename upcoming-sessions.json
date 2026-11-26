@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:37:29.358034+00:00",
+  "generated_at": "2026-11-26T19:41:02.972862+00:00",
   "source": "bookwhen",
   "events": [
     {
@@ -35,7 +35,7 @@
       "end_at": "2026-12-06T12:15:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 12,
-      "attendee_count": 4,
+      "attendee_count": 7,
       "waiting_list": true,
       "tags": "Signature; signature",
       "location": "The Wellness Barn Edinburgh / The Wellness Barn 111a Swanston Road / Edinburgh / EH10 7DS",
@@ -48,7 +48,7 @@
       "end_at": "2026-12-15T20:30:00.000+00:00",
       "cancelled_at": null,
       "attendee_limit": 14,
-      "attendee_count": 1,
+      "attendee_count": 3,
       "waiting_list": true,
       "tags": "switchoff; Signature; signature",
       "location": "Fern Bothy / The Bruiser House, Steading / Longniddry / EH32 0QJ",
